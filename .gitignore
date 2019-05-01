@@ -170,3 +170,4 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode
 
 reload.sh
+*.wav
